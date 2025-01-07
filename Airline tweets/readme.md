@@ -67,13 +67,13 @@ Evaluated models using:
 ## Visualization Examples
 
 ### 1. Top 10 Frequent Tokens
-![Top Tokens](./images/top_tokens.png)
+![image](https://github.com/user-attachments/assets/e5b39831-393e-4a95-983f-396a966aa9d1)
 
 ### 2. Sentiment Distribution
-![Sentiment Distribution](./images/sentiment_distribution.png)
+![image](https://github.com/user-attachments/assets/f2aaa974-1524-455e-ac36-b0aeb47e5f22)
 
 ### 3. Word Cloud
-![Word Cloud](./images/word_cloud.png)
+![image](https://github.com/user-attachments/assets/8521cccf-266e-47db-b185-1acdd642633e)
 
 ---
 
